@@ -214,4 +214,3 @@ lv_obj_set_pos(optionCButton, 0, 180);
 
 ---
 
-**Built with 🎮 and 🤖 for endless adventures**
